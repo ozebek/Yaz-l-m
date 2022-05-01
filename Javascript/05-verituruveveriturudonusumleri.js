@@ -51,3 +51,9 @@ number3 = parseInt(number3)
 let number5 = 55
 number5 = number5.toString(),
 console.log(number5, typeof(number5))
+
+console.log(typeof 'Asabeneh') // string
+console.log(typeof 5) // number
+console.log(typeof true) // boolean
+console.log(typeof null) // object type
+console.log(typeof undefined) // undefined
