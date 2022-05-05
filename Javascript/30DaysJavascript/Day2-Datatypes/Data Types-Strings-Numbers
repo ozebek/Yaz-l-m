@@ -31,3 +31,24 @@ Numbers are integers and decimal values which can do all the arithmetic operatio
 
 Math Object
 In JavaScript the Math Object provides a lots of methods to work with numbers.
+
+
+Strings:
+Strings are texts, which are under single , double, back-tick quote. To declare a string, we need a variable name, assignment operator, a value under a single quote, double quote, or backtick quote. Let's see some examples of strings:
+
+String Concatenation
+Connecting two or more strings together is called concatenation. Using the strings declared in the previous String section:
+
+Escape Sequences in Strings
+In JavaScript and other programming languages \ followed by some characters is an escape sequence. Let's see the most common escape characters:
+
+\n: new line
+\t: Tab, means 8 spaces
+\\: Back slash
+\': Single quote (')
+\": Double quote (")
+
+Template Literals (Template Strings)
+To create a template strings, we use two back-ticks. We can inject data as expressions inside a template string. To inject data, we enclose the expression with a curly bracket({}) preceded by a $ sign. See the syntax below.
+
+toUpperCase(): this method changes the string to uppercase letters.
