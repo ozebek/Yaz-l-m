@@ -1,10 +1,12 @@
+
 let marka = "Opel"
 let model = "Anan"
 let otomatik = "yes"
 
+
 // if/else statement
 
-/*
+
 if(otomatik=="yes"){
     console.log("Araç otomatiktir.");
 } 
@@ -23,7 +25,7 @@ if(otomatik== "true"){
 if(10==="10"){
     console.log("sayılar eşit");
 }
-*/
+
 
 //SWİTCH STATEMENT
 
